@@ -1,0 +1,10 @@
+.chakra-breadcrumb__link{
+    color: #27374D !important;
+    /* font-size: 1.5vw; */
+}
+
+.chakra-breadcrumb__list{
+    justify-content: flex-end;
+    padding: 2rem;
+}
+

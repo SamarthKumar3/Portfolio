@@ -1,0 +1,42 @@
+.lg-head {
+    justify-content: center;
+    display: flex;
+    font-family: 'Barlow', sans-serif;
+    font-size: 5vw;
+    color: #27374D;
+}
+
+.tp-margin {
+    margin-top: 20vw;
+    padding: 5vw;
+}
+
+.contact-div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    column-gap: 20vw;
+    margin-top: 5vw;
+}
+
+.contact-div a{
+    padding: 1vw 2vw;
+    border: 1px solid #15dac1;
+    background-color: #daf1f1;
+    border-radius: 40px;
+    transition: all 0.2s ease-in-out;
+    font-size: 1.75vw;
+    font-family: 'Montserrat';
+}
+
+.contact-div a:hover{
+    background-color: #15dac1;
+    color: white;
+}
+
+.contact-div h3{
+    font-size: 1.75vw;
+    font-family: 'Montserrat';
+}
+
+

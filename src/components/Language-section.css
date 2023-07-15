@@ -1,0 +1,27 @@
+.tp-margin{
+    margin-top: 20vw;
+    padding: 5vw;
+}
+
+.lg-head{
+    justify-content: center;
+    display: flex;
+    font-family: 'Barlow', sans-serif;
+    font-size: 5vw;
+    color: #27374D;
+}
+
+.lg-hint{
+    justify-content: center;
+    display: flex;
+    margin-top: 1vw;
+}
+
+.chakra-text{
+    text-align: center;
+    font-size: 1.25vw !important;
+}
+
+.chakra-code{
+    font-size: 1.25vw !important;
+}

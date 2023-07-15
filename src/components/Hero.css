@@ -1,0 +1,20 @@
+.center{
+    justify-content: center;
+    display: flex;
+    font-family: 'Barlow', sans-serif;
+    font-size: 5vw;
+    color: #27374D;
+}
+
+.Typewriter{
+    font-family: 'Montserrat', sans-serif;
+}
+
+.top-margin{
+    margin-top: 10vw;
+}
+
+.About-me{
+    margin-top: 8vw;
+    padding: 0 20vw 5vw;
+}

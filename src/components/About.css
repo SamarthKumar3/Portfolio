@@ -1,0 +1,8 @@
+.chakra-card{
+    padding: 2vw;
+    line-height: 2;
+}
+
+.chakra-card__body{
+    font-size: 1.2vw;
+}
